@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         var name: String = "BORI"
         var age: Int = 4
+        var address: String = "Hongseong"
     }
 }
